@@ -94,6 +94,9 @@ class StoryList {
         });
 
         console.log(token); //testing new branch
+        console.log(token); //testing new branch
+        console.log(token); //testing new branch
+        console.log(token); //testing new branch
 
         return res;
     }
